@@ -1,0 +1,49 @@
+#one{
+    width: 400px;
+    padding-right: 50px;
+    margin-left: 200px;
+}
+.contaner{
+    display: flex;
+    justify-content: center;
+}
+#two {
+    width: 170px;
+margin-right: 150px; 
+}
+
+.body{
+    background-color: brown;
+}
+#tree{
+    background-image: linear-gradient(145deg, #f5d2e7, rgb(179, 170, 239), #5c42ed, purple);
+}
+#five{
+    width: 400px;
+    padding-right: 50px;
+    margin-left: 200px;
+}
+#four {
+    width: 250px;
+margin-right: 150px; 
+}
+#six{
+    width: 400px;
+    padding-right: 50px;
+    margin-left: 200px;
+}
+#seven {
+    width: 170px;
+margin-right: 150px; 
+}
+#fffff{
+    width: 300px;
+margin-right: 150px; 
+}
+#nine{
+    width:350px;
+margin-right: 150px; 
+}
+#ten{
+    width: 250px;
+}
